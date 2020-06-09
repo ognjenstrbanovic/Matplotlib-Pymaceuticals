@@ -1,7 +1,7 @@
 # matplotlib-challenge
 "What good is data without a good plot to tell the story?"  
 
-![picture](https://github.com/RutgersCodingBootcamp/RU-JER-DATA-PT-01-2020/blob/master/02-Homework/05-Matplotlib/Instructions/Images/Laboratory.jpg?raw=true)  
+![Laboratory](https://github.com/RutgersCodingBootcamp/RU-JER-DATA-PT-01-2020/blob/master/02-Homework/05-Matplotlib/Instructions/Images/Laboratory.jpg?raw=true)  
 
 
 Pymaceuticals Inc. is a *fictional* pharmaceutical company. It specializes in anti-cancer pharmaceuticals; in its most recent efforts, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer. I am its senior data analyst, I have been given access to the complete data from their most recent animal study. In this study, 250 mice identified with SCC tumor growth were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens. I have been tasked by the executive team to generate all of the tables and figures needed for the technical report of the study. The executive team also has asked for a top-level summary of the study results.  
