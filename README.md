@@ -1,4 +1,4 @@
-# matplotlib-Pymaceuticals 💊
+# Pymaceuticals Analysis 💊
 "What good is data without a good plot to tell the story?" 📊  
 
 ![Laboratory](https://github.com/RutgersCodingBootcamp/RU-JER-DATA-PT-01-2020/blob/master/02-Homework/05-Matplotlib/Instructions/Images/Laboratory.jpg?raw=true)  
